@@ -10,3 +10,8 @@
 
 ## Finalidade
 - Acadêmica
+
+## Requisitos/Dependências necessárias
+- Maven
+- JUnit 4 ou superior
+
